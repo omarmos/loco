@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044933764914",
+    "firebase_url": "https://carpool2-76994.firebaseio.com",
+    "project_id": "carpool2-76994",
+    "storage_bucket": "carpool2-76994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044933764914:android:2e395782551caa5262592b",
+        "android_client_info": {
+          "package_name": "com.example.mecdrive_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044933764914-rlms1lj4f5n8vrtm4pn0ki6oeqg4m0b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBdHadR2aXxhR6yiLZK0Bkc3J6dZrgZSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044933764914-rlms1lj4f5n8vrtm4pn0ki6oeqg4m0b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
